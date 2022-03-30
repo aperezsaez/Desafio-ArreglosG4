@@ -17,4 +17,4 @@ def promedio(arr)
     arr.sum/arr_quantity
 end
 
-print promedio(visitas)
+# print promedio(visitas)
